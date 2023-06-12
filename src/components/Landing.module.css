@@ -1,0 +1,15 @@
+.title{
+    background: rgb(209,0,88);
+  background: linear-gradient(55deg, rgba(209,0,88,1) 0%, rgba(180,0,0,1) 100%);
+    -webkit-background-clip: text;
+    color: transparent;  
+    font-size: 4em;
+    width: 70%;
+    height: 200px;
+    margin-left: 15%;
+  }
+  
+  .desc{
+    font-weight: 0;
+  }
+  
